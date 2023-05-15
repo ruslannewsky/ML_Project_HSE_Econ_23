@@ -19,7 +19,7 @@
 
 **Гид по репозиторию**  
  data_mining.ipynb - парсинг данных с сайта m2.ru  
- data_analysis.ipynb - начало EDA
+ data_analysis.ipynb - начало EDA  
  our_project.csv - спарсенный датасет  
 
 **Per aspera ad astra**
